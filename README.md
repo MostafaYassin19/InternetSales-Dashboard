@@ -1,0 +1,1 @@
+The InternetSales Dashboard is a business intelligence project focused on visualizing and analyzing internet sales data. The dashboard provides key insights into sales trends, product performance, and customer behavior. It is designed to assist stakeholders in making informed decisions and optimizing strategies to enhance business performance.
